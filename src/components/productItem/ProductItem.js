@@ -25,7 +25,7 @@ function ProductItem({ title, price, image, description }) {
 
 
       <div className="row-span-1 flex flex-col justify-center items-center gap-2 p-4 pt-0 pb-0">
-        <h3 className="font-bold text-lg text-gray-700 text-center line-clamp-2 w-44"> {title} </h3>
+        <h3 className="font-bold text-lg text-gray-700 text-center line-clamp-2 w-44 mt-4"> {title} </h3>
         <span className="text-2xl text-red-950 font-semibold"> {price} $</span>
       </div>
 
