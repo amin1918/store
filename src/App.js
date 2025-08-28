@@ -10,6 +10,7 @@ import { ShoppingCardProvider } from './context/ShoppingCardContext';
 import { AuthProvider } from './context/AuthContext';
 import Login from './pages/logIn/LoginForm';
 import Signup from './pages/signUp/SignUp';
+import Checkout from './pages/checkout/CheckOut';
 
 
 function App() {
@@ -23,6 +24,7 @@ return (
       <AuthProvider>
       <Layout>
         <Routes>
+          <Route path='/checkout' element={<Checkout />} />
            <Route path='/signup' element={<Signup />} />
           <Route path='/login' element={<Login />} />
           <Route path='/' element={<Home />} />

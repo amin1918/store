@@ -2,6 +2,7 @@ import { useContext, } from "react";
 import Container from "../../components/container/Container";
 import { ShoppingCardContext } from "../../context/ShoppingCardContext";
 import CardItem from "../../cardItem/CardItem";
+import { Link } from "react-router-dom";
 
 function Cart() {
 
@@ -23,6 +24,7 @@ function Cart() {
       <div className="flex justify-center w-full fixed bottom-4 left-0 px-4">
 
         <div className="flex items-end gap-1 md:gap-4 mt-4 pb-">
+          <Link to={"/checkout"} >
           <button
             className="md:w-40 h-8 w-20 rounded-lg border border-yellow-200 text-gray-600 font-semibold
                      bg-gradient-to-tr from-yellow-200/80 via-yellow-300/30 to-yellow-400/70
@@ -30,6 +32,7 @@ function Cart() {
           >
             Payment
           </button>
+          </Link>
           <div className=" w-30  flex flex-col font-thin text-xs text-gray-600">
             <label>Total</label>
             <span

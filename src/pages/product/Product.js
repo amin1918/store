@@ -56,7 +56,7 @@ function Product() {
               <h2 className="mb-2 text-lg font-bold  text-gray-600">About</h2>
               <p>{product?.description} </p>
               <div className="mt-4 md:mt-10 text-xl md:text-2xl font-bold text-green-900">
-                {product?.price}{" "}
+                {product?.price}$
               </div>
 
               <div className="mb-7 mt-12  md:max-w-6xl flex content-center justify-center">
