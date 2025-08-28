@@ -23,7 +23,6 @@ function Checkout() {
   const handleSubmit = (e) => {
     e.preventDefault();
     alert("Payment processed successfully!");
-    // بعداً می‌توان به سرور یا Stripe متصل کرد
   };
 
   return (
