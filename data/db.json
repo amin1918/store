@@ -1,0 +1,141 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wireless Earbuds S9",
+      "price": 79.99,
+      "description": "Noise-canceling wireless earbuds with long battery life and touch controls.",
+      "image": "https://i.ebayimg.com/images/g/p3MAAOSw3TVixwYW/s-l500.webp",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.4,
+        "count": 8
+      }
+    },
+    {
+      "id": 3,
+      "title": "Fitness Tracker Band F10",
+      "price": 49.99,
+      "description": "Slim fitness tracker with step counting, sleep tracking, and heart rate monitoring.",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/YP/LY/FV/78305368/m4-fitness-band-1000x1000.png",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.2,
+        "count": 15
+      }
+    },
+    {
+      "id": 4,
+      "title": "Smart Home Security Camera",
+      "price": 129.99,
+      "description": "1080p indoor smart camera with motion detection and two-way audio.",
+      "image": " //www.heimvision.com/cdn/shop/products/HM202A-1_2048x2048.jpg?v=1600933194  ",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.5,
+        "count": 21
+      }
+    },
+    {
+      "id": 5,
+      "title": "Bluetooth Speaker Mini X5",
+      "price": 59.99,
+      "description": "Portable Bluetooth speaker with deep bass, waterproof design, and 12-hour playtime.",
+      "image": "https://cf6ad7.a-cdn.akinoncloud.com/products/2024/12/26/116370/86d0d489-2dd4-4548-9304-111e186aed76_size1000x1000_cropTop.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.3,
+        "count": 5
+      }
+    },{
+      "id": 6,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 7,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 8,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 9,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 10,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 11,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    },{
+      "id": 12,
+      "title": "Smartwatch Pro X12 with Fitness Tracker and Heart Rate Monitor",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking, heart rate monitor, and AMOLED display.",
+      "image": "https://st-troy.mncdn.com/mnresize/775/775/Content/media/ProductImg/original/mx4d3tua-638623395518059947.jpg",
+      "category": "electronics",
+      "rating": {
+        "rate": 4.6,
+        "count": 10
+      }
+    }
+  ]
+}
